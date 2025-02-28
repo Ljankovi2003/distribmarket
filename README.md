@@ -1,4 +1,4 @@
-# Distribution Markets Documentation
+# Distribution Markets
 
 <div align="center">
   
