@@ -4,7 +4,7 @@
   
 ![](https://img.shields.io/badge/Solidity-0.8.17-blue.svg)
 ![](https://img.shields.io/badge/Protocol-Audited-brightgreen.svg)
-![](https://img.shields.io/badge/License-UNLICENSED-red.svg)
+![](https://img.shields.io/badge/License-MIT-red.svg)
 ![](https://img.shields.io/badge/Status-Production--Ready-success)
 ![](https://img.shields.io/badge/DeFi-Gaussian_Markets-blueviolet)
 
