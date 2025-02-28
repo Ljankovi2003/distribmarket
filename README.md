@@ -12,13 +12,13 @@
 
 <div align="center">
   
-### 🔐 Certified Secure | ⚡ Gas Optimized | 🌐 Cross-Chain Compatible
+### 🔐 Certified Secure | ⚡ Gas Optimized | 🌐 Cross-Chain Compatible | 🦄 Unichain
   
 </div>
 
 
 ## Introduction
-A prediction market protocol for trading on continuous outcome distributions. The DistributionAMM contract is a decentralized market-making protocol that facilitates liquidity provision and trades based on Gaussian distributions. Specifically designed to handle collateralized trades within a decentralized exchange, it enables liquidity providers to participate in markets while representing their positions as NFTs.
+A prediction market protocol on Unichain for trading on continuous outcome distributions. The DistributionAMM contract is a decentralized market-making protocol that facilitates liquidity provision and trades based on Gaussian distributions. Specifically designed to handle collateralized trades within a decentralized exchange, it enables liquidity providers to participate in markets while representing their positions as NFTs.
 
 ---
 
